@@ -2,6 +2,11 @@
 
 **There will be another changes**
 
-1.The first option is
-   -First of of the first option
-     -First of the first 
+1. The first option is
+     -First of of the first option
+       -First of the first 
+    
+    
+    
+[x] first option is done
+[ ] second is not done
