@@ -1,12 +1,4 @@
-#This is header of my project's readme file
+# This is header of my project's readme file
 
 **There will be another changes**
 
-1. The first option is
-     -First of of the first option
-       -First of the first 
-    
-    
-    
-[x] first option is done
-[ ] second is not done
